@@ -23,6 +23,7 @@ Thumbs.db
 .idea/
 
 # Ignore data files
+/data/
 *.csv
 *.xlsx
 *.json
